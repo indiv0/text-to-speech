@@ -1,6 +1,15 @@
-*.class
+# Eclipse
+.classpath
+.project
+.settings/
+target/
+.checkstyle
 
-# Package Files #
-*.jar
-*.war
-*.ear
+# IntelliJ
+*.iml
+lib/
+
+# Maven
+dependency-reduced-pom.xml
+bin/
+.idea/
