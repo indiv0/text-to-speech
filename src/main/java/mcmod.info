@@ -1,0 +1,14 @@
+[
+{
+  "modid": "Indiv0TextToSpeech",
+  "name": "Text To Speech",
+  "version": "0.0.2",
+  "url": "http://nikitapek.in/",
+  "authors": [ "indiv0" ],
+  "credits": "FreeTTS provided by Sun Microsystems Laboratories Speech Team",
+  "logoFile": "",
+  "screenshots": [ ],
+  "parent": "",
+  "requiredMods": [ "Forge" ]
+}
+]

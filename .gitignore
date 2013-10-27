@@ -13,3 +13,5 @@ lib/
 dependency-reduced-pom.xml
 bin/
 .idea/
+
+out/
